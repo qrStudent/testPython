@@ -1,0 +1,21 @@
+The exercises that you complete in this lab will give you a taste of programming.
+You will read and write programs in Python - the programming language that we
+will be learning this semester. You do not need to install any software to complete
+this lab assignment. You need a computer with Internet access (either your personal
+computer or any NYU public lab computer).
+
+In this lab, we will be working in a cloud-based environment that allows us to
+run programs and produce some graphics. This clound-based enviroment is called
+Trinket.io  and you can access it via the following URL:  https://trinket.io/python
+
+====================================================================================
+
+**Warm-up Question:**
+
+To see this warm-up activity, go to the website
+    https://trinket.io/python/5d5124affe
+and perform the activities shown on the homepage. What happens when you enter
+the last instruction mentioned there? Do you know why this happens?
+(Just try to figure it out, you may not be able to get a completely correct
+answer just yet, but give it your best try.)
+
